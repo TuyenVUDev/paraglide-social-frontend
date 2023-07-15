@@ -1,0 +1,1 @@
+# paraglide-social-frontend
